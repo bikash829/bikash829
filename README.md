@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Bikash Chowdhury. I am a full stack web developer. I have choosen html5,css3,bootstrap5, javascript, php, django for develop application. 
 - 👀 I’m interested in python.
-- 🌱 I’m currently learning django, react, javascript and some advance desining.
+- 🌱 I’m currently learning django, react, javascript and some advance desining. I also accepted a #100DaysOfCode challange. You can check the progess on 100DaysOfCode repository if you want. 
 - 💞️ I’m looking to collaborate on ...
 - 📫 If you want to contact or connect with me you can use my email address to search me everywhere except facebook. "chowdhurybikash38@gmail.com" that's my id you can search me and knock me anyway. 
 - 🤔 oh i also have an user id here is it on the below 👇
