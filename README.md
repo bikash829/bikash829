@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Bikash Chowdhury. I am a full stack web developer. I have choosen html5,css3,bootstrap5, javascript, php, django for develop application. 
+- 👋 Hi, I’m Bikash Chowdhury. I am a full stack web developer. I have choosen html5,css3,bootstrap5, javascript, php, django to develop web application. 
 - 👀 I’m interested in python.
 - 🌱 I’m currently learning django, react, javascript and some advance desining. I also accepted a #100DaysOfCode challange. You can check the progess on 100DaysOfCode repository if you want. 
 - 💞️ I’m looking to collaborate on ...
